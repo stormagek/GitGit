@@ -5,6 +5,7 @@ public class A
     public void printInt (int i)
     {
         System.out.println(i);
+        System.out.println("NBA " + i);
     }
 
     public static void main (String[] args)
